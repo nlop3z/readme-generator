@@ -31,9 +31,10 @@ const questions = [
         message: 'Who collaborated on your project?'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'What kind of license have you chosen for your project?'
+        message: 'What kind of license have you chosen for your project?',
+        choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
     },
     {
         type: 'input',

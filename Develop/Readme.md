@@ -1,21 +1,22 @@
-# sdfsdf
+# Weather Dashboard ![GitHub license](https://img.shields.io/badge/license-GPL3.0-blue.svg)
 ## Description
-sdfsdf
+An application that runs in the browser and allows you to see the weather outlook for multiple cities.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 ## Installation
-awewq
+No installation required. Visit the website to use the application.
 ## Usage
-gsdfs
+The user would search for a city using the search bar or by looking at city history to get weather for that city.
 ## Credits
-dfs
+Nelly Lopez
 ## License
-sdfs
+GPL 3.0
 ## Tests
-sdfs
+No test scripts available at this time.
 ## Questions
-nlop3z
-[nlop3z](https://github.com/nlop3z)
+GitHub: [nlop3z](https://github.com/nlop3z)
+
+Contact: [nelly.lopez@utexas.edu](mailto:nelly.lopez@utexas.edu)
