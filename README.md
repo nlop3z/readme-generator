@@ -5,7 +5,8 @@ An application that generates a README file based on user input on the command-l
 
 ## Built with:
 * Node.js
-* Inquirer package
+* JavaScript
+* NPM Inquirer Package
 
 ## URL deployed application video:
 https://drive.google.com/file/d/14RR7ltlTilh-dIaJhwpq0hQfTyfN1DD4/view
